@@ -1,0 +1,22 @@
+body{
+background-color: aquamarine;
+text-shadow: 2px 4px 10px black;
+margin-top: 170px;
+}
+h1{
+text-align: center;
+margin: 20px;
+text-decoration: underline;
+border: 5px solid blue;
+border-top-left-radius: 10px;
+border-top-right-radius: 10px;
+padding: 20px;
+}
+ul{
+font-family:cursive;
+}
+
+.image{
+    width: 100px;
+    height: 100px;
+}

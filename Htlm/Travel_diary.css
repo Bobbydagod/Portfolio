@@ -1,0 +1,57 @@
+body{
+    text-align: center;
+    background-color: rgb(141, 141, 253);
+    margin-top: 110px;
+}
+h1{
+    color: brown;
+    font-family: jokerman;
+}
+.header_section{
+margin: auto;
+width: 500px;
+background-image: radial-gradient(blue, pink);
+border: 10px solid red;
+border-radius: 20px;
+}
+.Places img{
+    margin: 12px 2px auto;
+    width: 500px;
+    border-radius: 10%;
+    box-shadow: 4px 6px 30px;
+}
+p{
+    color: rgb(255, 62, 62);
+    font-family: 'Courier New', Courier, monospace;
+font-size: 30px;
+}
+.Places{
+    margin: 5px;
+    margin-bottom: 40px;
+    border: 1px solid fuchsia;
+    background-image: radial-gradient(orange,pink);
+    box-shadow: 2px 5px rgb(243, 76, 109) ;
+    border-radius: 20%;
+    padding: 12px;
+
+}
+.Places p{
+    padding: 5px;
+    color: crimson;
+    font-size: 22px;
+    
+}
+.video{
+border-radius: 10px;
+border: 10px solid red;
+padding: 5px;
+background-image: radial-gradient(lightblue, orange)
+}
+.ytvideo{
+    margin: 50px 50px auto;
+    background-image: radial-gradient(Yellow, purple);
+    border: 10px solid red;
+    border-radius: 20px;
+
+
+}
