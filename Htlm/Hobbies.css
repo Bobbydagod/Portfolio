@@ -1,22 +1,33 @@
 body{
-background-color: aquamarine;
-text-shadow: 2px 4px 10px black;
+background-color: black;
+text-shadow: 2px 4px 10px white;
 margin-top: 170px;
 }
 h1{
 text-align: center;
 margin: 20px;
 text-decoration: underline;
-border: 5px solid blue;
+font-style: italic;
+color: white;
+
 border-top-left-radius: 10px;
 border-top-right-radius: 10px;
 padding: 20px;
 }
 ul{
 font-family:cursive;
+font-style: italic;
+font-style: bold;
+color: white;
 }
 
 .image{
     width: 100px;
     height: 100px;
+}
+.why{
+font-family:cursive ;
+font-style: italic;
+color: white;
+font-style: bold;
 }
